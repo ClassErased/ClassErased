@@ -1,5 +1,6 @@
 import math
 import time
+import sys
 
 print("Program to perform nCr calculation for combinations")
 #Define selection pool
@@ -14,4 +15,4 @@ print("Calculating...")
 print (math.comb(n, r)) 
 time.sleep(10)
 print("Exiting program...")
-exit()
+sys.exit()
