@@ -1,4 +1,5 @@
-Hi im ClassErased, interested mostly in security and network operations :)
+Hi im Aaron, my current areas of study are Unix-like operating systems, cloud computing and digital forensics.
+I still code like a n00b tho.
 
 <!---
 ClassErased/ClassErased is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
