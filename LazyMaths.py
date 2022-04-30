@@ -4,7 +4,10 @@ import sys
 #Code is chunky as hell, im still learning more efficent ways of programming, however I am not a programmer.
 #f-strings weren't taught when I first learnt python but now I am aware I will start to use them, they rock!
 
-#standard form is simple as formatting an integer (input, 10.2E)
+#standard form is simple as formatting an integer (input, 10.2E/5.2e)
+#will add this next, then will attempt a loop that allows user to naviagate
+#back to welcome message
+#add option to exit program which breaks that loop
 
 #Print Welcome message and available options
 print("Multi-Function maths program by ClassErased, more features added as I require them. Along with better code. \n")
