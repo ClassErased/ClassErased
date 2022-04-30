@@ -2,13 +2,9 @@ import math
 import sys
 
 #Code is chunky as hell, im still learning more efficent ways of programming, however I am not a programmer.
-#Needs function to convert larger numbers to standard form, for now use online calculator.
 #f-strings weren't taught when I first learnt python but now I am aware I will start to use them, they rock!
 
-#def standardForm(answer):
-    #add logic
-    #str.format()
-    #print(standardForm(answer))
+#standard form is simple as formatting an integer (input, 10.2E)
 
 #Print Welcome message and available options
 print("Multi-Function maths program by ClassErased, more features added as I require them. Along with better code. \n")
