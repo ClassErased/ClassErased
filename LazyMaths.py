@@ -43,6 +43,9 @@ while choice == 1:
 
 #Program yet to be built, looks more complicated than I thought but there has to be a simpler way!
 while choice == 2:
+    inet = input("What is the default gateway address?: ")
+    range = input("How many subnets do you need?: ")
+    range2 = input("How many hosts in a subnet do you need?: ")
     print("\nSubnet calculator not available at this time, exiting program\n")
     break
 
