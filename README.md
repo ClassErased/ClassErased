@@ -1,4 +1,4 @@
-Hi im Aaron, my current areas of study are telecommunications, unix-like operating systems, cloud computing and digital forensics.
+Hi im Aaron, my current areas of study are telecommunications, unix-like operating systems, cloud computing and DFIR.
 I still code like a n00b tho.
 
 <!---
