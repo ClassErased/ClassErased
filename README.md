@@ -1,6 +1,6 @@
-#Welcome to ClassErased's profile
+# Welcome to ClassErased's profile
 
-##I mostly tinker with electronics, software-defined radio and machine learning. But have a love of anything RF or wireless.
+## I mostly tinker with electronics, software-defined radio and machine learning. But have a love of anything RF or wireless.
 
 Languages
 - [Python](https://github.com/ClassErased/python_projects)
