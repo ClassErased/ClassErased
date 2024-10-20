@@ -1,13 +1,6 @@
 # Welcome to ClassErased's profile
 
-## I mostly tinker with electronics, software-defined radio and IoT. Enthusiastic HAM :D
-
-Languages
-- [Python](https://github.com/ClassErased/python_projects)
-
-- [Rust](https://github.com/ClassErased/VSCode)
-
-- [C++](https://github.com/ClassErased/cpp_projects)
+## I mostly tinker with electronics, SDRs and Wireless networking... mostly
 
 73's
 <!---
